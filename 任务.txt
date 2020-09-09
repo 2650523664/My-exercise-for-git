@@ -1,0 +1,32 @@
+hadp1密码：2019
+code101密码：2650523664
+ubantu(4):2019
+ubantu:2650523664
+ubantu(2):2650523664
+kali:toor
+owasp:owaspbwa
+数据清洗，明白数据含义，按类训练，分类运用，
+
+Deep learning for natural language processing （python）52
+
+
+中学教育，交互，评判（部分美化）{给主题自写作文，套路}【】
+大数据应用开发流程
+
+NLP书，snow斯坦福大学（下载数据集）。
+
+跟换pip源；英语	
+
+23615409310209m@
+进程2，发展方向
+进程：
+	chatbot聊天机器人
+	snownlp词性分析更换数据集的二次训练及使用
+	MNIST程序的训练
+	QMIST6万张测试图片的应用
+	IMDB二分类问题的训练
+	
+暑期大数据导论。pythonJava面向对象语言
+
+
+
